@@ -1,0 +1,18 @@
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\bin\Debug\u3 sistema de reserva.exe.config
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form1.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form2.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form3.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form5.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form6.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form7.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Resources.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3 sistema de reserva.vbproj.GenerateResource.Cache
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\bin\Debug\reservasfestival.accdb
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\bin\Debug\u3 sistema de reserva.exe
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\bin\Debug\u3 sistema de reserva.pdb
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\bin\Debug\u3 sistema de reserva.xml
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3 sistema de reserva.exe
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3 sistema de reserva.xml
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3 sistema de reserva.pdb
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form4.resources
+C:\Users\WAGNER FERNANDEZ\documents\visual studio 2010\Projects\u3 sistema de reserva\u3 sistema de reserva\obj\x86\Debug\u3_sistema_de_reserva.Form8.resources
